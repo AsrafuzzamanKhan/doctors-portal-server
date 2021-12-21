@@ -20,6 +20,7 @@
     "express": "^4.17.2",
     "express-fileupload": "^1.2.1",
     "mongodb": "^4.2.2",
+    "nodemon": "^2.0.15",
     "serve": "^13.0.2",
     "stripe": "^8.194.0"
   }
